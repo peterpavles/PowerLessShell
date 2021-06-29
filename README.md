@@ -1,4 +1,4 @@
-# PowerLessShell
+# PowerLessShell - run powershell without powershell
 
 PowerLessShell rely on MSBuild.exe to remotely execute PowerShell scripts and commands without spawning powershell.exe. 
 You can also execute raw shellcode using the same approach.
